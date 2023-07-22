@@ -1,4 +1,4 @@
-alert("Bienvenida/o a Rica Rica Travel Agencia de Turismo 🌄🛩️🛻");
+/*alert("Bienvenida/o a Rica Rica Travel Agencia de Turismo 🌄🛩️🛻");
 
 let gastoTotal=0;
 
@@ -36,3 +36,4 @@ function incrementarGastoTotal (precioTour){
 }
 
 alert("Gracias por confiar en Rica Rica Travel Agencia de Turismo 👋👋");
+*/
